@@ -1,0 +1,15 @@
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\bin\Debug\net7.0\Banco.exe
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\bin\Debug\net7.0\Banco.deps.json
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\bin\Debug\net7.0\Banco.runtimeconfig.json
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\bin\Debug\net7.0\Banco.dll
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\bin\Debug\net7.0\Banco.pdb
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.csproj.AssemblyReference.cache
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.AssemblyInfoInputs.cache
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.AssemblyInfo.cs
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.dll
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\refint\Banco.dll
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.pdb
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
+C:\Users\paulo.manseira\Desktop\Projetos\Banco\obj\Debug\net7.0\ref\Banco.dll
